@@ -2,4 +2,4 @@ google-homepage
 ===============
 
 First project/The Odin Project/Web Development 101/The Front End
-I love coffee.
+google-homepage http://www.theodinproject.com/web-development-101/html-css
