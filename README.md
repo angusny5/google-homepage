@@ -1,3 +1,3 @@
 google-homepage
 ===============
-from google-homepage http://www.theodinproject.com/web-development-101/html-css
+from http://www.theodinproject.com/web-development-101/html-css
