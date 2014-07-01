@@ -1,1 +1,16 @@
 /* CSS Styles */
+*{
+overflow:hidden
+}
+
+#logowrapper {
+	border: none;
+	background-color:#FFFFFF;
+	
+}
+
+#logowrapper img {
+	border:none;
+	display: block;
+	margin: 0 auto;
+}
