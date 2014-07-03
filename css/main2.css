@@ -1,0 +1,64 @@
+/* CSS Styles */
+*{
+overflow:hidden
+}
+
+#toppart {
+	position: fixed;
+ 	 top: 0;
+  	width: 100%;
+}
+
+#toppart li {
+	display:inline;
+	min-width: 60px;
+	padding:.5em;
+	
+}
+
+#toppart ul {
+	float:right;
+}
+
+
+.srchbtn {
+	height: 2.5em;
+  	margin: 1.5em;
+  	background: #f2f2f2;
+ 	 border: 1px solid #e4e4e4;
+  	border-radius: 3px;
+  	font-weight: bold;
+}
+
+#searchbar {
+	width: 60%;
+	height: 2.5em;
+}
+
+#bottompart {
+	position: fixed;
+  	left: 0;
+  	bottom: 0;
+ 	 width: 100%;
+ 	 background:#f2f2f2;
+  	border-top: 1px solid #e4e4e4;
+  	height: 3em;
+}
+
+#bottompart ul{
+	/*position:inline;*/
+	display:inline;
+}
+
+#foot1 li {
+	
+	float:left;
+	padding:0 0 0 2em;
+}
+
+#foot2 li {
+	
+	float:right;
+	padding:0 2em 0 0;
+}
+
