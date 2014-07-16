@@ -1,4 +1,3 @@
-
 //check if inputted number is prime by dividing it by all possible numbers between 1 and the inputted number
 
 var prime = function(input) {
