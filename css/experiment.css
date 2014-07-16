@@ -1,0 +1,28 @@
+
+/* CSS Document */
+
+*{
+overflow:hidden
+}
+
+*{
+border:thin dashed blue;
+}
+#toplogo {
+}	
+
+.basic {
+	border:medium dashed red;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+
+#secondlogo {
+	border:medium dashed green;
+	padding: auto;
+}
+
+#midimg {
+	
+	
+}
